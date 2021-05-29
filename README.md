@@ -5,6 +5,7 @@ I just only suggest an idea with a simple example for converting chemical compou
 Image => Skeleton => Graph => Mol => SMILES
 
 #### Problems
-- not easy to make nodes to vertices from skeleton
-- not easy to know what symbols of atoms from nodes are
+- Difficult to make nodes to vertices from skeleton
+- Difficult to know what symbols of atoms from nodes are
+- Difficult to recognize other than single bonds
 
