@@ -1,4 +1,4 @@
-# Chemical-Image2SMILES (Toy Project)
+## Chemical-Image2SMILES (Toy Project)
 I'm just suggesting an idea with a simple example to convert a compound image to a SMILES string.
 
 #### Method
