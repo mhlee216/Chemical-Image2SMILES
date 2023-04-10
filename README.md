@@ -1,5 +1,5 @@
 # Chemical-Image2SMILES (Toy Project)
-I just only suggest an idea with a simple example for converting chemical compound images to SMILES strings.
+I'm just suggesting an idea with a simple example to convert a compound image to a SMILES string.
 
 #### Method
 Image => Skeleton => Graph => Mol => SMILES
